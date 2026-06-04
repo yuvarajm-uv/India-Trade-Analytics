@@ -1,0 +1,1 @@
+-- Fact_AnnualTrade table script

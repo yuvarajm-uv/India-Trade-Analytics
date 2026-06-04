@@ -1,0 +1,1 @@
+-- Dim_Commodity table script

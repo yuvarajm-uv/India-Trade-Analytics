@@ -1,0 +1,1 @@
+-- Dim_TradingPartner table script

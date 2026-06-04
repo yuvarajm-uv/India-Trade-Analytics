@@ -1,0 +1,1 @@
+-- Fact_CommodityTrade table script
