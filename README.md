@@ -199,12 +199,6 @@ Open `india_trade.pbix` in Power BI Desktop and update the data source connectio
 **Yuvaraj M**
 Data Analyst | SQL Server · Power BI · DAX
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-iamyuvaraj.site-teal?style=flat-square)](https://iamyuvaraj.site)
-[![GitHub](https://img.shields.io/badge/GitHub-yuvarajm--uv-181717?style=flat-square&logo=github)](https://github.com/yuvarajm-uv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yuvarajm-uv)
-
----
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
